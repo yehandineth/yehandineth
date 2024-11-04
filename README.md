@@ -65,14 +65,13 @@
 </div>
 </div align=center>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yehandineth&layout=compact&theme=vision-friendly-dark)](https://github.com/yehandineth/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=yehandineth&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2)](https://github.com/yehandineth/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yehandineth&theme=dark&background=000000)](https://git.io/streak-stats)
 
-![Yehan's github stats](https://github-readme-stats.vercel.app/api?username=yehandineth&count_private=true&show_icons=true&theme=vision-friendly-dark)
+![Yehan's github stats](https://github-readme-stats.vercel.app/api?username=yehandineth&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1)
 
 [![GAG](https://github-readme-activity-graph.vercel.app/graph?username=yehandineth&bg_color=000000&color=FFFFFF&line=FFC000&point=FFC000&hide_border=false)](https://github.com/yehandinetha/github-readme-activity-graph)
 </div>
 </div>
 </div>
-<div align=right>
